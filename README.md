@@ -70,7 +70,7 @@ If you find this code helpful, we would appreciate it if you cite our paper:
 @inproceedings{chen2026speak,
     title = {{SPEAK}: {Spiking} {Neurons} as an {Entropy}-{Aware} {Tokenizer} for {Large} {Language} {Models}},
     author = {Chen, Ming and Li, Wenyao and Liang, Chao and Gu, Shi and Lin, Peng and Ma, De and Tang, Huajin and Zheng, Qian and Pan, Gang},
-    booktitle={Proceedings of the 64th Annual Meeting of the Association 748 for Computational Linguistics.},
+    booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics.},
     year={2026},
     url={https://openreview.net/forum?id=N7hnj8HVDx}
 }
