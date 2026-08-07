@@ -1,8 +1,8 @@
-# [ACL-2026 Main] SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models
+# [ACL-2026 Main Oral] SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models
 
 ## 📖 Introduction
 
-This repository provides the official implementation of the [ACL-2026 paper](https://openreview.net/forum?id=N7hnj8HVDx).
+This repository provides the official implementation of the [ACL-2026 oral paper](https://openreview.net/forum?id=N7hnj8HVDx).
 <img src="./img/method.jpg" width="100%" style="display: block; margin: 0 auto;">
 
 Tokenizers are critical for large language models. However, existing methods:
