@@ -2,7 +2,7 @@
 
 ## 📖 Introduction
 
-This repository provides the official implementation of the [ACL-2026 oral paper](https://openreview.net/forum?id=N7hnj8HVDx).
+This repository provides the official implementation of the [ACL-2026 oral paper](https://aclanthology.org/2026.acl-long.451/).
 <img src="./img/method.jpg" width="100%" style="display: block; margin: 0 auto;">
 
 Tokenizers are critical for large language models. However, existing methods:
@@ -70,8 +70,8 @@ If you find this code helpful, we would appreciate it if you cite our paper:
 @inproceedings{chen2026speak,
     title = {{SPEAK}: {Spiking} {Neurons} as an {Entropy}-{Aware} {Tokenizer} for {Large} {Language} {Models}},
     author = {Chen, Ming and Li, Wenyao and Liang, Chao and Gu, Shi and Lin, Peng and Ma, De and Tang, Huajin and Zheng, Qian and Pan, Gang},
-    booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+    booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
     year={2026},
-    url={https://openreview.net/forum?id=N7hnj8HVDx}
+    url={https://aclanthology.org/2026.acl-long.451/}
 }
 ```
